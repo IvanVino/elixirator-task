@@ -1,0 +1,22 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(247, 247, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50px;
+    padding: 10px 0;
+}
+
+.header_image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.header_name {
+    margin-left: 10px;
+}
